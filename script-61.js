@@ -1,0 +1,1 @@
+if(typeof(window.jQuery)==='undefined'){document.write('<script src="https://assets-cdn77.xvideos-cdn.com/v3/js/libs/jquery-1.7.2.min.js" crossorigin="anonymous"><\/script>')}
